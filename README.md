@@ -15,7 +15,8 @@ Technical Skills:
     Libraries & Frameworks: Pandas, NumPy, Scikit-Learn
 
 Projects:
-
+    Arab Springs replication: pulled data and replicated summary statistics for economic research
+    Nathan Nunn Slave Trade replication, worked in a group setting to replicate and expand on Nathan Nunn's IV study on the effects of slave trade on the economic performance of African countries. Added a double LASSO regression to better determine causal relationship.
 
 Connect with Me:
 
